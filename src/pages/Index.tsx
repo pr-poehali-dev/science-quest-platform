@@ -119,7 +119,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="text-3xl animate-pulse-glow">🚀</div>
-              <h1 className="text-2xl font-heading font-bold text-primary">Science Quest</h1>
+              <h1 className="text-2xl font-heading font-bold text-primary">Научный поиск</h1>
             </div>
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-2 bg-muted px-4 py-2 rounded-lg">
@@ -314,7 +314,7 @@ const Index = () => {
           <TabsContent value="rating" className="animate-fade-in">
             <div className="mb-6">
               <h2 className="font-heading font-bold text-2xl mb-2">Таблица лидеров</h2>
-              <p className="text-muted-foreground">Топ команд Science Quest</p>
+              <p className="text-muted-foreground">Топ команд Научный поиск</p>
             </div>
 
             <Card className="overflow-hidden">
@@ -362,7 +362,7 @@ const Index = () => {
           <TabsContent value="portfolio" className="animate-fade-in">
             <div className="mb-6">
               <h2 className="font-heading font-bold text-2xl mb-2">Достижения и бейджи</h2>
-              <p className="text-muted-foreground">Ваш путь в Science Quest</p>
+              <p className="text-muted-foreground">Ваш путь в Научный поиск</p>
             </div>
 
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
